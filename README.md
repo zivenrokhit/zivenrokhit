@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, my name is Ziven 👋
+
+I'm an experienced Software Engineer and a Mathematics/Computer Science student at the University of Waterloo.
+
+I've interned at Ford Motors, TD Bank, and other tech startups.
+
+In addition to my work experience and studies I've also founded a software company called Course Clutch (courseclutch.com) which helps university students enroll into in-demand courses!
 
 <!--
 **zivenrokhit/zivenrokhit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
